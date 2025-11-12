@@ -1,6 +1,5 @@
 # SkinnerHaskell
-Haskell Chapters from Rebecca Skinner's book
-This is my experience with one of the best Haskell books I've ever seen!
-If you are a middle level haskell dev, it's a treasure and "must read" item! 
+Just went through some chapters of Rebecca Skinner’s Haskell book — honestly, one of the best Haskell books I’ve ever come across! 
+If you’re a mid-level Haskell dev, this is an absolute gem and a total must-read.
 
 ![rshaskell](https://github.com/user-attachments/assets/98f8faf4-8d5e-4a2f-9236-6113538769a1)
